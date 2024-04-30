@@ -1,0 +1,32 @@
+name: m_booking
+description: A new Flutter project.
+version: 1.0.0+1
+environment: 
+  sdk: '>=3.0.0 <4.0.0'
+dependencies: 
+  flutter: 
+    sdk: flutter
+  get:
+  connectivity_plus:
+  shared_preferences:
+  cached_network_image:
+  flutter_svg:
+  flutter_login_facebook:
+  google_sign_in:
+  pin_code_fields:
+  flutter_rating_bar:
+  smooth_page_indicator:
+  sms_autofill:
+  carousel_slider:
+  calendar_date_picker2:
+  easy_date_timeline:
+  flutter_svg_provider:
+  intl:
+dev_dependencies: 
+  flutter_test: 
+    sdk: flutter
+flutter: 
+  uses-material-design: true
+  assets: 
+    - assets/
+    - assets/images/
